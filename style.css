@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 80%;
+    height: 3200px;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height: 650px;
+    text-align: center;
+    font-size: 37px;
+    background:  url(https://static.tildacdn.com/tild6563-6663-4266-a364-636433613262/d8f24f2a448c5db13d9e.jpg);
+    background-size: 100% 100%;
+}
+.e{
+    text-align: center;
+    font-size: 37px;
+}
+.esr{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    padding-top: 100px;
+    color: rgb(221, 9, 125);
+}
+.wer{
+    width: 85%;
+    height: 300px;
+    text-align: center;
+    margin-top: 30px;
+    margin: 0 auto;
+}
+.fd{
+    width: 100%;
+    height: 255px;
+    margin: 0 auto;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.d{
+    color: lightgreen;
+}
+.zap{
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+
+}
+.g{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.i1{
+    width: 65%;
+    height: 500px;
+    margin: 0 auto;
+}
+.i2{
+    width: 65%;
+    height: 500px;
+    margin: 0 auto;
+}
+.f{
+    width: 80%;
+    height: 490px;
+    margin: 0 auto;
+}
+.f h1{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.f img{
+    margin: 0 auto;
+    width: 90%;
+    height: 450px;
+    margin-left: 65px;
+}
+.sn{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 37px;
+}
+.l{
+    width: 100%;
+    height: 610px;
+}
+.z{
+    float: right;
+    margin-right: 200px;
+}
+.q{
+    text-align: left;
+    float: left;
+    width: 350px;
+    height: 70px;
+    margin-left: 310px;
+    font-size: 22px;
+}
+.l1{
+    width: 100%;
+    height: 500px;
+    margin-left: 130px;
+}
+.z1{
+    float: left;
+    margin-left: 200px;
+}
+.q1{
+    text-align: left;
+    float: right;
+    width: 350px;
+    height: 70px;
+    margin-right: 310px;
+    font-size: 28px;
+    margin-top: 70px;
+
+}
+.l h1{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.l1 h1{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.l2{
+    width: 100%;
+    height: 400px;
+
+}
+.z2{
+    float: right;
+    margin-right: 200px;
+}
+.q2{
+    text-align: left;
+    float: left;
+    width: 350px;
+    height: 70px;
+    margin-left: 310px;
+    font-size: 22px;
+}
+.l2 h1{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.l3{
+    width: 100%;
+    height: 450px;
+
+}
+.z3{
+    float: right;
+    margin-right: 200px;
+}
+.q3{
+    text-align: left;
+    float: left;
+    width: 350px;
+    height: 70px;
+    margin-left: 310px;
+    font-size: 22px;
+}
+.l3 h1{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+
